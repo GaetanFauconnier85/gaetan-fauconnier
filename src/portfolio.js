@@ -11,7 +11,7 @@ const about = {
   description:
     'Ayant terminé mon école d\'ingénierie informatique à l\'EPSI Nantes, j\'ai des bases solides dans plusieurs domaines de compétence tels que React Native, Angular, et Java.',
   descriptionDeux: 'Je suis actuellement ouvert à toutes les demandes. Je suis sérieux, dynamique et motivé pour apprendre et progresser en travaillant avec des professionnels.',
-  resume: 'https://example.com',
+  resume: 'https://www.linkedin.com/in/ga%C3%ABtan-fauconnier-2542b8154/overlay/1635526884403/single-media-viewer?type=DOCUMENT&profileId=ACoAACUQSmABvkJh_6rO97PXaWQJp4c2MzVkFbw&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BA%2FzXlrPWQDO4W2b3xTi%2FfQ%3D%3D',
   social: {
     linkedin: 'https://www.linkedin.com/in/ga%C3%ABtan-fauconnier-2542b8154/',
     github: 'https://github.com/GaetanFauconnier85',
