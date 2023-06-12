@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gaetan-fauconnier/static/css/main.7b98f4ea.chunk.css",
+    "main.js": "/gaetan-fauconnier/static/js/main.f36ca3b9.chunk.js",
+    "main.js.map": "/gaetan-fauconnier/static/js/main.f36ca3b9.chunk.js.map",
+    "runtime-main.js": "/gaetan-fauconnier/static/js/runtime-main.71a2c915.js",
+    "runtime-main.js.map": "/gaetan-fauconnier/static/js/runtime-main.71a2c915.js.map",
+    "static/js/2.38d5ed6a.chunk.js": "/gaetan-fauconnier/static/js/2.38d5ed6a.chunk.js",
+    "static/js/2.38d5ed6a.chunk.js.map": "/gaetan-fauconnier/static/js/2.38d5ed6a.chunk.js.map",
+    "index.html": "/gaetan-fauconnier/index.html",
+    "static/css/main.7b98f4ea.chunk.css.map": "/gaetan-fauconnier/static/css/main.7b98f4ea.chunk.css.map",
+    "static/js/2.38d5ed6a.chunk.js.LICENSE.txt": "/gaetan-fauconnier/static/js/2.38d5ed6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a2c915.js",
+    "static/js/2.38d5ed6a.chunk.js",
+    "static/css/main.7b98f4ea.chunk.css",
+    "static/js/main.f36ca3b9.chunk.js"
+  ]
+}
